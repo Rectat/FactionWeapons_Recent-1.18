@@ -10,10 +10,12 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import net.recta.custommod.CustomMod;
+import net.recta.custommod.item.ModItemGroup;
 
 public class ModBlocks {
 
-    public static final Block STRING_BLOCK = registerBlock("string_block", new Block(FabricBlockSettings.of(Material.CARPET).strength(2f)), ItemGroup.MISC);
+    public static final Block STRING_BLOCK = registerBlock("string_block",
+            new Block(FabricBlockSettings.of(Material.CARPET).strength(2f)), ModItemGroup.CUSTOM);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup group) {
