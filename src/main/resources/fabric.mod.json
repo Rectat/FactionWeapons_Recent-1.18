@@ -1,29 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "custommod",
+  "id": "factionweapons",
   "version": "${version}",
 
-  "name": "Custom Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Faction Weapons",
+  "description": "A New Mod Coded By Lil Recta - With Art Done By NothingButPyro",
   "authors": [
-    "Recta"
+    "Recta and NothingButPyro"
   ],
-  "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
-  },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/factionweapons/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.recta.custommod.CustomMod"
+      "net.recta.factionweapons.FactionWeapons"
     ]
   },
   "mixins": [
-    "custommod.mixins.json"
+    "factionweapons.mixins.json"
   ],
 
   "depends": {

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "T"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+      "T": {
+        "item": "minecraft:tuff"
+      }
+    },
+    "result": {
+      "item": "factionweapons:geode_stick",
+      "count": 4
+    }
+  }

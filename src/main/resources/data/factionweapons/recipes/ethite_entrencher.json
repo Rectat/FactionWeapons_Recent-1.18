@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " NC",
+    " SN",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "item": "factionweapons:geode_stick"},
+
+      "N": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "factionweapons:ethite_entrencher"
+  }
+}

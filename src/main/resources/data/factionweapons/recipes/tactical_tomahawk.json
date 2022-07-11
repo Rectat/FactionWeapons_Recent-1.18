@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " CC",
+    " SN",
+    "SCN"
+  ],
+  "key": {
+    "S": {
+      "item": "factionweapons:iron_stick"},
+
+      "N": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "factionweapons:tactical_tomahawk"
+  }
+}

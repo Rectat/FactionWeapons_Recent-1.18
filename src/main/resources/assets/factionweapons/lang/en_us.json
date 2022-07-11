@@ -1,0 +1,51 @@
+{
+  "item.factionweapons.reinforced_string": "Reinforced String",
+  "item.factionweapons.blackstone_stick": "Blackstone Stick",
+  "item.factionweapons.gold_stick": "Gold Stick",
+  "item.factionweapons.lapis_stick": "Lapis Stick",
+  "item.factionweapons.iron_stick": "Iron Stick",
+  "item.factionweapons.geode_stick": "Geode Stick",
+
+  "item.factionweapons.dowsing_rod": "Dowsing Rod",
+
+
+  "item.factionweapons.tactical_machete": "Tactical Machete",
+  "item.factionweapons.tactical_scythe": "Tactical Scythe",
+  "item.factionweapons.tactical_icepick": "Tactical Icepick",
+  "item.factionweapons.tactical_entrencher": "Tactical Entrencher",
+  "item.factionweapons.tactical_tomahawk": "Tactical Tomahawk",
+
+  "item.factionweapons.copperite_machete": "Copperite Machete",
+  "item.factionweapons.copperite_scythe": "Copperite Scythe",
+  "item.factionweapons.copperite_icepick": "Copperite Icepick",
+  "item.factionweapons.copperite_entrencher": "Copperite Entrencher",
+  "item.factionweapons.copperite_tomahawk": "Copperite Tomahawk",
+
+  "item.factionweapons.refined_netherite_blade": "Refined Netherite Blade",
+  "item.factionweapons.refined_netherite_scythe": "Refined Netherite Scythe",
+  "item.factionweapons.refined_netherite_icepick": "Refined Netherite Icepick",
+  "item.factionweapons.refined_netherite_entrencher": "Refined Netherite Entrencher",
+  "item.factionweapons.refined_netherite_tomahawk": "Refined Netherite Tomahawk",
+
+  "item.factionweapons.rectat_blade": "Rectat Blade",
+  "item.factionweapons.rectat_scythe": "Rectat Scythe",
+  "item.factionweapons.rectat_icepick": "Rectat Icepick",
+  "item.factionweapons.rectat_entrencher": "Rectat Entrencher",
+  "item.factionweapons.rectat_hatchet": "Rectat Hatchet",
+
+  "item.factionweapons.ethite_machete": "Ethite Machete",
+  "item.factionweapons.ethite_scythe": "Ethite Scythe",
+  "item.factionweapons.ethite_icepick": "Ethite Icepick",
+  "item.factionweapons.ethite_entrencher": "Ethite Entrencher",
+  "item.factionweapons.ethite_tomahawk": "Ethite Tomahawk",
+
+  "block.factionweapons.string_block": "String Block",
+
+  "itemGroup.factionweapons.factionweapons": "Faction Weapons Tab",
+
+  "item.factionweapons.dowsing_rod.no_valuables": "No Valuables Found!",
+  "item.factionweapons.dowsing_rod.tooltip.shift": "Right Click to Find Valuables",
+  "item.factionweapons.dowsing_rod.tooltip": "Press §eShift§r for more Information",
+
+  "tooltip.factionweapons.string_block": "Block of String"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  N",
+    "CN ",
+    "SC "
+  ],
+  "key": {
+    "S": {
+      "item": "factionweapons:lapis_stick"},
+
+      "N": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "factionweapons:rectat_blade"
+  }
+}

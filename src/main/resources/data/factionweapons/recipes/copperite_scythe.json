@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " CN",
+    " SN",
+    "S C"
+  ],
+  "key": {
+    "S": {
+      "item": "factionweapons:blackstone_stick"},
+
+      "N": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "factionweapons:copperite_scythe"
+  }
+}

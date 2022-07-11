@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CNC",
+    " SN",
+    "S C"
+  ],
+  "key": {
+    "S": {
+      "item": "factionweapons:gold_stick"},
+
+      "N": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "factionweapons:refined_netherite_icepick"
+  }
+}
